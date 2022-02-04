@@ -50,5 +50,8 @@ It is clear that the most users are male and they use the service for commute.
 
 
 For the future analysis I would suggest the two analysis. 
-1. Most used Locations(Start station and End station) by gender.
-2. Most used Locations(Start station and End station) for each weekday.
+1. Start Locations by Usertype.
+<img width="680" alt="src_8" src="https://user-images.githubusercontent.com/85041697/152544622-312c0565-9530-407c-b887-364fc84b53b6.png">
+
+2. End Locations by Usertype.
+<img width="680" alt="src_9" src="https://user-images.githubusercontent.com/85041697/152544639-1b7eced8-b691-4309-b69f-d321e8a5e1e4.png">
